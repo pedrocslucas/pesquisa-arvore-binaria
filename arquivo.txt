@@ -1,0 +1,6 @@
+root matheus 3.000000
+matheus pedro 4.000000
+pedro tiago 5.000000
+tiago maria 0.000000
+matheus jose 0.000000
+root marcos 0.000000
